@@ -1,7 +1,7 @@
-# PROFIT PREDICTOR 📊
+# PLACEBO EFFECT 📊
 *Machine Learning for Seasonal Sales & Profit Optimization*
 
-![Data Analysis](https://media.istockphoto.com/id/1175867336/photo/nocebo-or-placebo-hand-turns-a-cube-and-changes-the-word-placebo-to-nocebo-or-vice-versa.jpg?s=612x612&w=is&k=20&c=ITC6r-JQZlLjyK3qpwKt2XIeNBqQ6D_0rzxyWQslXxU=)
+![Data Analysis](https://media.istockphoto.com/id/2233342016/photo/ai-medical-technology-concepts-ai-medicine-research-copy-space.jpg?s=1024x1024&w=is&k=20&c=hzUv4_yM8KR87s51HuagYFQK3rVFSkD6Z9FG65lQ4I4=)
 
 ---
 
