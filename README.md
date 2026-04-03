@@ -5,7 +5,6 @@
 
 ---
 ### Project Overview
-1. Load historical sales data.
 **Placebo Effect** is a research data-science project designed to analyze **the effects of placebo treatment**, exploring **patterns in clinical response**.
 ---
 
