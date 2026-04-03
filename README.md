@@ -4,8 +4,8 @@
 ![Data Analysis](https://media.istockphoto.com/id/2233342016/photo/ai-medical-technology-concepts-ai-medicine-research-copy-space.jpg?s=1024x1024&w=is&k=20&c=hzUv4_yM8KR87s51HuagYFQK3rVFSkD6Z9FG65lQ4I4=)
 
 ---
-#### Project Overview
-#### **Placebo Effect** is a research data-science project designed to analyze **the effects of placebo treatment**, exploring **patterns in clinical response**.
+### Project Overview
+### **Placebo Effect** is a research data-science project designed to analyze **the effects of placebo treatment**, exploring **patterns in clinical response**.
 ---
 
 ## Key Features
