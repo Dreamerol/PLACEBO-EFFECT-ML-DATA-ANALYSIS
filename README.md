@@ -4,8 +4,7 @@
 ![Data Analysis](https://media.istockphoto.com/id/2233342016/photo/ai-medical-technology-concepts-ai-medicine-research-copy-space.jpg?s=1024x1024&w=is&k=20&c=hzUv4_yM8KR87s51HuagYFQK3rVFSkD6Z9FG65lQ4I4=)
 
 ---
-## Project Overview
-**Neural Network Lab** is separated into a few fields of tasks: building neural networks with TensorFlow, implementing a mini version of a neural network from scratch, and applying key concepts such as gradient descent, backpropagation, and optimization functions to find the best **parameters (weights and biases)** for our neural network.
+### Project Overview
 **Placebo Effect** is a research data-science project designed to analyze **the effects of placebo treatment**, exploring **patterns in clinical response**.
 ---
 
