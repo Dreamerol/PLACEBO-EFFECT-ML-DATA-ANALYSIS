@@ -5,6 +5,7 @@
 
 ---
 ## Project Overview
+**Neural Network Lab** is separated into a few fields of tasks: building neural networks with TensorFlow, implementing a mini version of a neural network from scratch, and applying key concepts such as gradient descent, backpropagation, and optimization functions to find the best **parameters (weights and biases)** for our neural network.
 **Placebo Effect** is a research data-science project designed to analyze **the effects of placebo treatment**, exploring **patterns in clinical response**.
 ---
 
