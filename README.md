@@ -1,13 +1,11 @@
 # PLACEBO EFFECT 📊
 *Machine Learning for Seasonal Sales & Profit Optimization*
 
-<span style="font-size: 200%; font-weight: bold;">
-Machine Learning for Seasonal Sales & Profit Optimization
-</span>
-
 <span style="font-size: 400%; font-weight: bold; font-style: italic;">
 Machine Learning for Seasonal Sales & Profit Optimization
 </span>
+
+
 ---
 ### Project Overview
 ### **Placebo Effect** is a research data-science project designed to analyze **the effects of placebo treatment**, exploring **patterns in clinical response**.
