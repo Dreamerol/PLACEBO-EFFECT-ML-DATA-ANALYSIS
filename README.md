@@ -1,5 +1,5 @@
 # PLACEBO EFFECT 📊
-## *Machine Learning for Seasonal Sales & Profit Optimization*
+## *Data Science*
 
 
 <img src="https://github.com/Dreamerol/Dreamerol/blob/ffbc50fb6e126a1b5ba681945333cf013b46a761/!!!_PLACEBO_3.png" 
