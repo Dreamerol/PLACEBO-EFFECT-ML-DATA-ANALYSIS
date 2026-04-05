@@ -1,7 +1,7 @@
 # PLACEBO EFFECT 📊
 *Machine Learning for Seasonal Sales & Profit Optimization*
 
-![Data Analysis](https://media.istockphoto.com/id/2233342016/photo/ai-medical-technology-concepts-ai-medicine-research-copy-space.jpg?s=1024x1024&w=is&k=20&c=hzUv4_yM8KR87s51HuagYFQK3rVFSkD6Z9FG65lQ4I4=)
+![Data Analysis](https://github.com/Dreamerol/Dreamerol/blob/c2e4b5f68ffdc5995d031063c53647560aafaf97/!_PLACEBO_2.png)
 
 ---
 ### Project Overview
