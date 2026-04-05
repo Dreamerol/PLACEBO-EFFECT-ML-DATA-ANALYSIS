@@ -1,7 +1,7 @@
 # PLACEBO EFFECT 📊
 ### *Machine Learning for Seasonal Sales & Profit Optimization*
 
-# *Machine Learning for Seasonal Sales & Profit Optimization*
+## *Machine Learning for Seasonal Sales & Profit Optimization*
 
 ---
 
