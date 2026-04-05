@@ -1,7 +1,7 @@
 # PLACEBO EFFECT 📊
 *Machine Learning for Seasonal Sales & Profit Optimization*
 
-![Data Analysis](https://github.com/Dreamerol/Dreamerol/blob/c2e4b5f68ffdc5995d031063c53647560aafaf97/!_PLACEBO_2.png)
+![Data Analysis](https://github.com/Dreamerol/Dreamerol/blob/ffbc50fb6e126a1b5ba681945333cf013b46a761/!!!_PLACEBO_3.png)
 
 ---
 ### Project Overview
