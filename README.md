@@ -1,10 +1,6 @@
 # PLACEBO EFFECT 📊
 ### *Machine Learning for Seasonal Sales & Profit Optimization*
 
-### <span style="font-size: 400%; font-weight: bold; font-style: italic;">
-Machine Learning for Seasonal Sales & Profit Optimization
-</span>
-
 ---
 
 
