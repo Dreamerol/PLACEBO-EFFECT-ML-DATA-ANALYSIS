@@ -26,6 +26,16 @@ By blending **psychology, physiology, and data science**, we aim to provide rese
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://i
+
+  ---
+
 ### 🏛️ Project Background / История на изследването
 
 The journey began with a simple but powerful question:  
@@ -37,6 +47,16 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 💡 **Key Insight:** Studies show that **expectations and beliefs can profoundly influence treatment outcomes**. Patients who trust their treatment often show measurable improvements, even under strictly controlled medical conditions.  
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://i
+
+  ---
 
 ### 🔬 Why This Matters
 
