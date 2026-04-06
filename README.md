@@ -18,9 +18,33 @@
 
 ## 📋 Project Overview
 
-The Placebo Effect project explores how beliefs and expectations influence patient outcomes. By analyzing real clinical trial data, it provides insights for researchers and contributes to better trial designs and patient care.
-### 🏛️ **Project Background / История на изследването**
-The **Placebo Effect** project investigates how patients respond to placebo treatments in clinical trials. The main goal is to understand the **psychological and physiological mechanisms** behind observed improvements when no active medication is administered. The research was inspired by multiple studies showing that **expectations and beliefs can significantly influence treatment outcomes**, even in rigorous clinical settings.
+✨ **Imagine walking into a clinic, receiving a treatment, and feeling better—not because of the medicine itself, but because you believe it will work.**  
+
+This is the fascinating world of the **Placebo Effect**. Our project dives deep into this phenomenon, analyzing real clinical trial data to uncover **how beliefs and expectations shape patient outcomes**.  
+
+By blending **psychology, physiology, and data science**, we aim to provide researchers with actionable insights that can improve trial designs and, ultimately, patient care.  
+
+---
+
+### 🏛️ Project Background / История на изследването
+
+The journey began with a simple but powerful question:  
+
+> *"Can the mind heal the body, even without active medication?"*  
+
+The **Placebo Effect** project explores exactly that—how patients respond when given a treatment with **no active ingredients**. Through careful analysis of clinical trials, we investigate the **psychological and physiological mechanisms** that trigger real improvements.  
+
+💡 **Key Insight:** Studies show that **expectations and beliefs can profoundly influence treatment outcomes**. Patients who trust their treatment often show measurable improvements, even under strictly controlled medical conditions.  
+
+---
+
+### 🔬 Why This Matters
+
+- **Better Trial Designs:** Insights help researchers create **more accurate and ethical clinical trials**.  
+- **Improved Patient Care:** Understanding the placebo effect can enhance **treatment effectiveness**.  
+- **Scientific Discovery:** Sheds light on the **mind-body connection** and human psychology.  
+
+✨ The **Placebo Effect** isn’t just a curiosity—it’s a window into how our minds shape our health, and how science can harness this knowledge to improve lives.
 
 ---
 
