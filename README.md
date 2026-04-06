@@ -5,7 +5,6 @@
      alt="Data Analysis">
 
 
-<h2 align="center">💊 PLACEBO EFFECT – PYTHON | MACHINE LEARNING & DATA ANALYSIS</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
