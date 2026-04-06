@@ -1,4 +1,4 @@
-# PLACEBO EFFECT 📊
+<h2 align="center">💊 PLACEBO EFFECT – PYTHON | MACHINE LEARNING & DATA ANALYSIS</h2>
 ## *Data Science*
 
 
