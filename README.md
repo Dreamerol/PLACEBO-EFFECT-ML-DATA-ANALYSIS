@@ -25,6 +25,19 @@ The **Placebo Effect** project investigates how patients respond to placebo trea
 
 ---
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
+
+---
+
+
 ### 🎯 **Objectives / Поставени цели**
 1. Analyze historical clinical trial data to identify **patterns in placebo responses**.  
 2. Investigate **factors influencing placebo effectiveness**, such as age, gender, type of illness, and trial design.  
@@ -43,6 +56,19 @@ The **Placebo Effect** project investigates how patients respond to placebo trea
 
 ---
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
+
+---
+
+
 ### 📊 **Results / Постигнати резултати**
 - Identified **key factors** influencing placebo response, including patient age, trial duration, and treatment presentation.  
 - Developed a **predictive model** achieving high accuracy in classifying likely responders to placebo treatments.  
@@ -50,6 +76,19 @@ The **Placebo Effect** project investigates how patients respond to placebo trea
 - Contributed to a better understanding of the **psychological and statistical dimensions** of placebo effects in medicine.
 
 ---
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
+
+---
+
 
 ### 🧰 **Skills / Използвани умения**
 - Python, Pandas, NumPy  
@@ -59,6 +98,18 @@ The **Placebo Effect** project investigates how patients respond to placebo trea
 - Clinical Data Interpretation
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
+
+---
+
 
 ### 🚀 Key Features & Workflow
 - 📊 **Exploratory Data Analysis (EDA):** Identify patterns in clinical trial datasets  
@@ -74,6 +125,17 @@ The **Placebo Effect** project investigates how patients respond to placebo trea
 - 📈 Matplotlib, Seaborn, Plotly  
 - 🤖 Scikit-learn, TensorFlow / Keras  
 - 🗂 Jupyter Notebook, Git, GitHub
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
 
 ---
 
