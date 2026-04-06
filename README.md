@@ -46,6 +46,20 @@ The **Placebo Effect** project investigates how patients respond to placebo trea
 
 ---
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
+
+---
+
+
+
 ### 🛠️ **Methodology / Процес**
 - **Data Collection:** Aggregated anonymized clinical trial datasets from public repositories and scientific publications.  
 - **Data Cleaning & Preprocessing:** Handled missing values, normalized scales, and encoded categorical variables.  
@@ -119,6 +133,19 @@ The **Placebo Effect** project investigates how patients respond to placebo trea
 
 ---
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
+
+---
+
+
 ### 🖥️ Tech Stack
 - 🐍 Python  
 - 📊 Pandas, NumPy  
@@ -146,6 +173,19 @@ The **Placebo Effect** project investigates how patients respond to placebo trea
 4. Test hypotheses using the **Scientific Method**  
 
 ---
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
+
+---
+
 
 ### 💡 Key Skills
 - **Data Cleaning and Tidying**  
