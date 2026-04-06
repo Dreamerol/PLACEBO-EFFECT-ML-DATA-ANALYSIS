@@ -19,7 +19,6 @@
 ## 📋 Project Overview
 
 The Placebo Effect project explores how beliefs and expectations influence patient outcomes. By analyzing real clinical trial data, it provides insights for researchers and contributes to better trial designs and patient care.
-
 ### 🏛️ **Project Background / История на изследването**
 The **Placebo Effect** project investigates how patients respond to placebo treatments in clinical trials. The main goal is to understand the **psychological and physiological mechanisms** behind observed improvements when no active medication is administered. The research was inspired by multiple studies showing that **expectations and beliefs can significantly influence treatment outcomes**, even in rigorous clinical settings.
 
