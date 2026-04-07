@@ -41,7 +41,7 @@ By blending **psychology, physiology, and data science**, we aim to provide rese
 
 The journey began with a simple but powerful question:  
 
-> *"Can the mind heal the body, even without active medication?"*  
+### *"Can the mind heal the body, even without active medication?"*  
 
 The **Placebo Effect** project explores exactly that—how patients respond when given a treatment with **no active ingredients**. Through careful analysis of clinical trials, we investigate the **psychological and physiological mechanisms** that trigger real improvements.  
 
