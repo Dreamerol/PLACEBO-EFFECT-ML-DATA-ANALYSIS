@@ -38,15 +38,27 @@ By blending **psychology, physiology, and data science**, we aim to provide rese
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
-  ---
+---
+
 
 ### 🏛️ Project Background / История на изследването
 
@@ -61,15 +73,27 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
-  ---
+---
+
 
 ### 🔬 Why This Matters
 
@@ -83,12 +107,23 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
 ---
@@ -104,12 +139,23 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
 ---
@@ -128,12 +174,23 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
 ---
@@ -149,16 +206,26 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
 ---
-
 
 ### 🧰 **Skills / Използвани умения**
 - Python, Pandas, NumPy  
@@ -170,12 +237,23 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
 ---
@@ -191,12 +269,23 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
 ---
@@ -212,12 +301,23 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
 ---
@@ -232,12 +332,23 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
 ---
@@ -262,17 +373,25 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 </p>
 
 
-
-
-
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1.25-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-yellow?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
+
 </p>
 
