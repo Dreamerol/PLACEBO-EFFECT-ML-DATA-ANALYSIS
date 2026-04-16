@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
+
   <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
   <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
