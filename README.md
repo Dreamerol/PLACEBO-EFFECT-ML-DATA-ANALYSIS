@@ -1,8 +1,10 @@
 <h1 align="center">💊 PLACEBO EFFECT – PYTHON | MACHINE LEARNING & DATA ANALYSIS</h1>
 
-<img src="https://github.com/Dreamerol/Dreamerol/blob/ffbc50fb6e126a1b5ba681945333cf013b46a761/!!!_PLACEBO_3.png" 
+<img src="https://github.com/Dreamerol/Dreamerol/blob/cdc7079a7462b5a4260a6248c2be43e589b07aa4/ZZZZZZPLACEBO777.png" 
      style="width: 100%; height: auto;" 
      alt="Data Analysis">
+
+https://github.com/Dreamerol/Dreamerol/blob/cdc7079a7462b5a4260a6248c2be43e589b07aa4/ZZZZZZPLACEBO777.png
 
 
 <p align="center">
