@@ -6,17 +6,19 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <!-- CORE -->
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Pandas-1.6.0-22C55E?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <!-- DATA -->
+  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
 
-  <img src="https://img.shields.io/badge/NumPy-1.25-F97316?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <!-- ML -->
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-8B5CF6?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-
-  <img src="https://img.shields.io/badge/TensorFlow-2.14-EF4444?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-
-  <img src="https://img.shields.io/badge/Matplotlib-3.8.0-3B82F6?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <!-- VISUALIZATION -->
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge&logoColor=white">
 </p>
 
 ---
