@@ -357,7 +357,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
   ---
 
-<div style="text-align:center;">
+<div align="center">
   💡 Explore the code, data, and models to see how placebo effects can be predicted and analyzed!
 </div>
 
