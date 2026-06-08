@@ -356,10 +356,14 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
 
   ---
+  
 
 <div align="center">
   💡 Explore the code, data, and models to see how placebo effects can be predicted and analyzed!
 </div>
+
+
+<br>
 
 
 <div align="center">
