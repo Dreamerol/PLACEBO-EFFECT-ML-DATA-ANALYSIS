@@ -341,6 +341,13 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 ---
 
+
+<div align="center">
+  💡 Explore the code, data, and models to see how placebo effects can be predicted and analyzed!
+</div>
+
+---
+
 <p align="center">
 
 
@@ -357,10 +364,6 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
   ---
   
-
-<div align="center">
-  💡 Explore the code, data, and models to see how placebo effects can be predicted and analyzed!
-</div>
 
 
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
