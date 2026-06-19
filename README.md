@@ -1,9 +1,13 @@
 <h1 align="center">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 – 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 & 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</h1>
 
+<br>
+
+
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZPLACEBO777.png" 
      style="width: 100%; height: auto;" 
      alt="Data Analysis">
 
+<br>
 
 
 <p align="center">
