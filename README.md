@@ -7,27 +7,37 @@
      style="width: 100%; height: auto;" 
      alt="Data Analysis">
 
+
+
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+width="100%"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+
+</a>
+
+</div>
+
+
+
+
+
+
+
 <br>
 
 
-<p align="center">
 
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-
-
-
-</p>
-
----
 
 ## 📋 Project Overview
 
@@ -51,25 +61,6 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 💡 **Key Insight:** Studies show that **expectations and beliefs can profoundly influence treatment outcomes**. Patients who trust their treatment often show measurable improvements, even under strictly controlled medical conditions.  
 
----
-
-<p align="center">
-
-
- <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-
-
-
-</p>
 
 ---
 
@@ -96,25 +87,6 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 ---
 
 
-<p align="center">
-
-
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
- 
-
-
-</p>
-
----
 
 
 
@@ -138,26 +110,6 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 - Generated **visual reports** demonstrating patterns and trends that can assist future clinical research.  
 - Contributed to a better understanding of the **psychological and statistical dimensions** of placebo effects in medicine.
 
----
-
-
-<p align="center">
-
-
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-
-
-
-</p>
 
 
 ---
@@ -182,27 +134,6 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 ---
 
 
-<p align="center">
-
-
- <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-
-
-</p>
-
-
----
-
-
 ### 🖥️ Tech Stack
 - 🐍 Python  
 - 📊 Pandas, NumPy  
@@ -221,25 +152,6 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 ---
 
-
-<p align="center">
-
-
- <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-
-
-</p>
-
----
 
 
 ### 💡 Key Skills
