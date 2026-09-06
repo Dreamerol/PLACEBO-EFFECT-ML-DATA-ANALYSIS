@@ -1,13 +1,16 @@
 <h1 align="center">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 – 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 & 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</h1>
 
 
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-PLACEBO.jpg"
+     alt="Placebo Effect — Applied ML & Data Analysis"
+     style="width: 100%; height: auto; display: block;">
 
-
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-PLACEBO.jpg" 
-     style="width: 100%; height: auto;" 
-     alt="Data Analysis">
-
-
+<div style="display:none;">
+  Mihaela Koseva, Placebo Effect, Applied Machine Learning,
+  Data Analysis, Data Science, Machine Learning, Python,
+  Statistical Analysis, Predictive Modeling, AI, Applied AI,
+  Software Engineering, Sofia University, FMI, Sofia, Bulgaria
+</div>
 
 
 
