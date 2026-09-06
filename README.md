@@ -3,7 +3,7 @@
 <br>
 
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZPLACEBO777.png" 
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-PLACEBO.jpg" 
      style="width: 100%; height: auto;" 
      alt="Data Analysis">
 
