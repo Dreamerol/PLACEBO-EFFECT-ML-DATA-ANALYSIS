@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/"
-     title="Applied Machine Learning & Data Analysis project — exploring the Placebo Effect through data, statistical analysis, and ML models.">
+     title="Applied Machine Learning & Data Analysis project — exploring the Placebo Effect through data, statistical analysis, and ML models. Placebo Effect — Applied ML & Data Analysis, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning">
     𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 – 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 & 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
   </a>
 </h1>
@@ -15,7 +15,7 @@
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-PLACEBO.jpg"
     width="100%"
-    alt="Placebo Effect — Applied ML & Data Analysis, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia "
+    alt="Placebo Effect — Applied ML & Data Analysis • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia "
   />
 </a>
 
