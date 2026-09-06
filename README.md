@@ -1,5 +1,13 @@
 
 
+
+
+
+<br>
+
+
+
+
 <h1 align="center">
   <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/"
      title="Applied Machine Learning & Data Analysis project — exploring the Placebo Effect through data, statistical analysis, and ML models. Placebo Effect — Applied ML & Data Analysis, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning">
