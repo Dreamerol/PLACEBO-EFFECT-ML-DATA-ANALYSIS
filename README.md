@@ -20,6 +20,15 @@
 
 
 
+
+
+<br>
+
+
+
+
+
+
 <div align="center">
 
 <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
