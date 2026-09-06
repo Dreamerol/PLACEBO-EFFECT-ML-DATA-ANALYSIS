@@ -9,13 +9,16 @@
 
 
 
+
+
+
 <div align="center">
 
 <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-PLACEBO.jpg"
     width="100%"
-    alt="Placebo Effect — Applied ML & Data Analysis • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia "
+    alt="Placebo Effect — Applied ML & Data Analysis • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia"
   />
 </a>
 
@@ -34,7 +37,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/CARDFOLIO">
+<a href="https://github.com/Dreamerol/PORTFOLIO">
 
 <img
 src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH-STACK-mihaela-koseva.png"
