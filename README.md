@@ -1,13 +1,11 @@
-<h1 align="center">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 – 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 & 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</h1>
 
 
 <h1 align="center">
-  <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">
+  <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/"
+     title="Applied Machine Learning & Data Analysis project — exploring the Placebo Effect through data, statistical analysis, and ML models.">
     𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 – 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 & 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
   </a>
 </h1>
-
-
 
 
 
